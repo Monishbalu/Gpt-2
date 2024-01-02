@@ -23,22 +23,6 @@ The notebooks included in this repository cover various aspects of GPT-2, includ
 3. **Model Analysis:** This notebook delves into analyzing GPT-2's behavior, exploring its generated outputs, and understanding its inner workings.
 
 
-## Usage
-
-To use these notebooks:
-
-1. Clone this repository to your local machine.
-   
-   ```bash
-   git clone https://github.com/your-username/gpt-2-notebooks.git
-   ```
-
-2. Install the required dependencies by following the instructions in the `requirements.txt` file.
-   
-3. Open the desired notebook using Jupyter Notebook or JupyterLab.
-   
-4. Follow the instructions within the notebook to run and experiment with GPT-2.
-
 ## Resources
 
 - **Pretrained Models:** Links to pre-trained GPT-2 models for different sizes and versions.
